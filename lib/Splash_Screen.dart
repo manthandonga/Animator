@@ -36,7 +36,7 @@ class _Splash_ScreenState extends State<Splash_Screen> {
               child: Text(
                 "BMI Calculator",
                 style: TextStyle(
-                  fontSize: 18,
+                  fontSize: 30,
                   color: Colors.white,
                   decoration: TextDecoration.none
                 ),
