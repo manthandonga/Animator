@@ -1,16 +1,6 @@
 # bmi_cla
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src = "https://user-images.githubusercontent.com/113701720/206858029-ac765e67-e021-4e57-8008-7098e6a83ee6.jpg" height = 500 width = 250>
+<img src = "https://user-images.githubusercontent.com/113701720/206858028-8bac12b8-c183-401e-bd30-3d8017a94435.jpg" height = 500 width = 250>
+<img src = "https://user-images.githubusercontent.com/113701720/206858021-45f9e99f-6ecf-4431-b9e2-8e1b90be44e2.jpg" height = 500 width = 250>
+<img src = "https://user-images.githubusercontent.com/113701720/206858031-c2ad8a58-6ffc-4827-8efe-0ddff061e3f1.mp4" height = 500 width = 250>
